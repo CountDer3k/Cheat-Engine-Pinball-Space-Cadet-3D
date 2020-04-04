@@ -1,5 +1,5 @@
 # Cheat-Engine-Pinball-Space-Cadet-3D
-Cheat Table for Pinball Space Cadet 3D using Cheat Engine
+Cheat Table for Pinball Space Cadet 3D using [CheatEngine](https://www.cheatengine.org).
 
 ### All my cheat tables can be found [here](https://github.com/CountDer3k/Cheat-Engine-Projects).
 ---------
